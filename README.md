@@ -1,1 +1,1 @@
-# The-Little-Taco-Shop
+The Little Taco Shop is a very basic static website made using HTML and CSS only. On this website, there are mainly three pages: index.html, hours.html, and contact.html. It is made for learning the basics of HTML only.
